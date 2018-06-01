@@ -23,7 +23,7 @@ function sayHiToGrandma(string)
 {
   return "YES INDEED!"
 }
-else if (){
+
   return "I love you, too."
 }
   
