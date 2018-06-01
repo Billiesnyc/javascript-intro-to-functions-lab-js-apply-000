@@ -23,7 +23,7 @@ function sayHiToGrandma(string)
 {
   return "YES INDEED!"
 }
-else if (string === string.mixedCase()){
+else if (string === string.toMixedCase()){
   return "I love you, too."
 }
   
